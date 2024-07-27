@@ -3,5 +3,5 @@
 A program that tracks tasks, events, and their completions. Allows the organization of tasks by current date, common groups (created by the user), and priority. Includes GUI and a date picker.
 
 **Contributors:** Emily (me) and Ugbad <br />
-**Created on:** Replit (Python with tkinter)
+**Created on:** Replit (Python with tkinter) <br />
 **Year created:** 2023 
